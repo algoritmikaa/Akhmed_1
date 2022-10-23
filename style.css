@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    color: lightblue;
+}
+
+header,a {
+    color: lightblue;
+}
+
+header,a:hover {
+    color: lime
+}
+
+header {
+    background-color: lightslategray;
+}
+
+body,header {
+    background-color: lightslategray;
+}
+
+footer {
+    background-color: lightslategray;
+}
